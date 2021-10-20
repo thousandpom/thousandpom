@@ -1,4 +1,6 @@
 # I'm Yao 👋
 <img src="profile.png" alt="banner that says X. Yao - Healthcare, Machine Learning, Active Learner alongside a cartoon illustration of Yao">
 
-I'm a neuroscientist 🧠 who is passionate about using machinne learning methods 🤖 to solve real-world healthcare 🏥 relevant problems.
+I'm a neuroscientist 🧠 who is passionate about using machinne learning methods 🤖 to solve real-world healthcare 🏥 relevant problems.    
+
+I am a learner with passion, curiosity, and energy, who embraces new challenges and opportunities. 
